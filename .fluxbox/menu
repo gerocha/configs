@@ -1,0 +1,6 @@
+[begin] (fluxbox)
+[exec] (firefox) {firefox} <>
+[exec] (screensaver) {xscreensaver} <>
+[exec] (discord) {discord} <>
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]

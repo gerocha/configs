@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/gelso/estudos/my_ecomm/tests'
+let g:netrw_dirhist_2='/home/gelso/estudos/my_ecomm/tests/entity'
+let g:netrw_dirhist_3='/home/gelso/estudos/my_ecomm/tests/services'
+let g:netrw_dirhist_4='/home/gelso/estudos/my_ecomm/my_ecomm/repository'
+let g:netrw_dirhist_5='/home/gelso/estudos/my_ecomm/my_ecomm/repository/db'
+let g:netrw_dirhist_6='/home/gelso/webDespachantes/app'
+let g:netrw_dirhist_7='/home/gelso/webDespachantes/app/ios'
+let g:netrw_dirhist_8='/home/gelso/webDespachantes/app/ios/app'
+let g:netrw_dirhist_9='/home/gelso/webDespachantes/app'
